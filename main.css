@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-header ,
+header  ,
 section h2,
 section h3,
 form button {
@@ -137,7 +137,7 @@ form button:hover {
 }
 
 input:focus, textarea:focus {
-    outline-color: #223468;
+    outline-color: #223e68;
 }
 
 footer {
